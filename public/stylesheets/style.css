@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+main {
+  display: flex;
+}
+
+#region-select {
+  display: flex;
+  flex-direction: column;
+}
+
+button.region-option {
+  width: 50px;
+}
